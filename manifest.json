@@ -1,12 +1,11 @@
 {
-  "name": "Logaloga Studio Booking",
-  "short_name": "Logaloga",
-  "start_url": "/booking/",
-  "scope": "/booking/",
+  "name": "Loga Loga Studio",
+  "short_name": "Studio",
+  "description": "Booking studio foto Loga Loga – Wisuda, Prewed, Umum",
+  "start_url": "/booking/index.html",
   "display": "standalone",
-  "background_color": "#0b1e2d",
-  "theme_color": "#1c2b3a",
-  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "icon-192.png",
